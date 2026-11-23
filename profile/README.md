@@ -4,7 +4,7 @@
 
 ### Randware
 ---
-#### "We like creating random software you may enjoy"
+#### "We like creating random software you might enjoy"
 
 All of our work is a simple passion project because we enjoy creating software.
 
